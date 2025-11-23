@@ -84,6 +84,7 @@
 - AWS EC2, S3, SQS  
 - Kubernetes, Terraform, Ansible  
 
+<img width="3248" height="2404" alt="아키텍처 drawio" src="https://github.com/user-attachments/assets/2e695a8f-dc89-40b9-8f89-4ff9e60ce715" />
 
 ## 🧩 Git Conventions
 
