@@ -4,6 +4,8 @@
   <b><a href="https://jobshorts.vercel.app">https://jobshorts.vercel.app</a></b>
 </div>
 
+<p align="center"><img src="https://github.com/user-attachments/assets/1188bddf-3e24-4e54-84e2-40a115caa89b" height=300 width=450></p>
+
 ---
 
 ## 📌 소개
@@ -14,6 +16,11 @@
 
 틱톡/인스타 릴스/유튜브 숏츠처럼 영상을 스크롤하며  
 지원자·기업 간의 **빠르고 직관적인 연결**을 제공합니다.
+
+## 🤩 팀원 소개
+|                                                                 **백동민**                                                                  |                                                              **김윤영**                                                               |                                                               **최윤호**                                                                |                                                              **송윤석**                                                               |                                                               **박보경**                                                                |
+| :-----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars.githubusercontent.com/u/84498742?v=4" height=150 width=150> <br/> @dongmin0204](https://github.com/dongmin0204) <br/> **BE, FE, DESIGN** | [<img src="https://avatars.githubusercontent.com/u/96537275?v=4" height=150 width=150> <br/> @kkimyy](https://github.com/kkimyy) <br/> **BE** | [<img src="https://avatars.githubusercontent.com/u/151824752?v=4" height=150 width=150> <br/> @yunhoch0i](https://github.com/yunhoch0i) <br/> **Infra** | [<img src="https://avatars.githubusercontent.com/u/87839885?v=4" height=150 width=150> <br/> @karpitony](https://github.com/karpitony) <br/> **FE** | [<img src="https://avatars.githubusercontent.com/u/245559359?v=4" height=150 width=150> <br/> @0930pbg](https://github.com/0930pbg) <br/> **DESIGN** |
 
 
 ## 🎯 문제 정의
